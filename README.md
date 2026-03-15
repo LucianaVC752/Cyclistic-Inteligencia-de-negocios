@@ -6,7 +6,7 @@ Este proyecto es un análisis de Business Intelligence (BI) para **Cyclistic**, 
 *Nota: Aunque Cyclistic es una empresa ficticia, el análisis se basa en datos reales de viajes de la red **Divvy** de Chicago, proporcionados por Motivate International Inc*
 
 ## Proceso de Análisis (Metodología)
-Para abordar este caso, seguí el proceso estándar de análisis de datos[cite: 7]:
+Para abordar este caso, seguí el proceso estándar de análisis de datos:
 
 1.  **Preguntar (Ask):** Definición del problema: entender cómo los miembros y ocasionales usan el servicio de manera diferente.
 2.  **Preparar (Prepare):** Descarga y revisión de los datos históricos de 2020 para asegurar su credibilidad y cumplimiento con los estándares ROCCC.
@@ -15,7 +15,7 @@ Para abordar este caso, seguí el proceso estándar de análisis de datos[cite: 
 5.  **Compartir (Share):** Creación de un dashboard en **Power BI** para visualizar los hallazgos clave.
 6.  **Actuar (Act):** Elaboración de 3 recomendaciones estratégicas para el equipo de marketing.
 
-7.  
+7.  ![](%7B26296606-7BCB-4F7F-AE82-F5932544D112%7D.png)
 
 ## Hallazgos Clave
 * **Comportamiento Utilitario vs. Recreativo:** Mediante la georreferenciación de las estaciones más concurridas, se identificó que los miembros anuales utilizan el servicio cerca de centros de transporte y oficinas, mientras que los ocasionales se concentran en zonas turísticas.
