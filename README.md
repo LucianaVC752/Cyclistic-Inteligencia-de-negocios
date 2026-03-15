@@ -15,7 +15,10 @@ Para abordar este caso, seguí el proceso estándar de análisis de datos:
 5.  **Compartir (Share):** Creación de un dashboard en **Power BI** para visualizar los hallazgos clave.
 6.  **Actuar (Act):** Elaboración de 3 recomendaciones estratégicas para el equipo de marketing.
 
-7.  ![](%7B26296606-7BCB-4F7F-AE82-F5932544D112%7D.png)
+7. ![]({19EB5EED-2FF6-4363-AE0E-BE307A6BF81F}.png)
+![]({25B6C360-819C-4C81-94A2-2683A0429ED9}.png)
+![]({26296606-7BCB-4F7F-AE82-F5932544D112}.png)
+![]({3EC618E6-EF4D-49BB-A776-842A504661E1}.png)
 
 ## Hallazgos Clave
 * **Comportamiento Utilitario vs. Recreativo:** Mediante la georreferenciación de las estaciones más concurridas, se identificó que los miembros anuales utilizan el servicio cerca de centros de transporte y oficinas, mientras que los ocasionales se concentran en zonas turísticas.
